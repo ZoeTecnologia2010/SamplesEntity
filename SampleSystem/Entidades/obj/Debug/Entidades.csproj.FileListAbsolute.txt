@@ -1,0 +1,11 @@
+C:\Users\hugov\source\repos\SistemaOdonto\Entidades\bin\Debug\Entidades.dll
+C:\Users\hugov\source\repos\SistemaOdonto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\hugov\source\repos\SistemaOdonto\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\hugov\source\repos\SistemaOdonto\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\hugov\source\repos\SistemaOdonto\Entidades\obj\Debug\Entidades.dll
+C:\Users\hugov\source\repos\SistemaOdonto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\zoete\source\repos\samplesentity\SampleSystem\Entidades\bin\Debug\Entidades.dll
+C:\Users\zoete\source\repos\samplesentity\SampleSystem\Entidades\bin\Debug\Entidades.pdb
+C:\Users\zoete\source\repos\samplesentity\SampleSystem\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\zoete\source\repos\samplesentity\SampleSystem\Entidades\obj\Debug\Entidades.dll
+C:\Users\zoete\source\repos\samplesentity\SampleSystem\Entidades\obj\Debug\Entidades.pdb

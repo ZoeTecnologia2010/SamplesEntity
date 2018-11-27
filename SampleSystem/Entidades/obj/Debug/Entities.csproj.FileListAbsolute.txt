@@ -1,0 +1,5 @@
+C:\Users\zoete\source\repos\samplesentity\SampleSystem\Entidades\bin\Debug\Entidades.dll
+C:\Users\zoete\source\repos\samplesentity\SampleSystem\Entidades\bin\Debug\Entidades.pdb
+C:\Users\zoete\source\repos\samplesentity\SampleSystem\Entidades\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\zoete\source\repos\samplesentity\SampleSystem\Entidades\obj\Debug\Entidades.dll
+C:\Users\zoete\source\repos\samplesentity\SampleSystem\Entidades\obj\Debug\Entidades.pdb
