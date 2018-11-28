@@ -19,7 +19,6 @@ C:\Users\zoete\source\repos\samplesentity\SampleSystem\SistemaOdonto\bin\Debug\C
 C:\Users\zoete\source\repos\samplesentity\SampleSystem\SistemaOdonto\obj\Debug\SampleSystem.csprojAssemblyReference.cache
 C:\Users\zoete\source\repos\samplesentity\SampleSystem\SistemaOdonto\obj\Debug\SampleSystem.frmCadDentist.resources
 C:\Users\zoete\source\repos\samplesentity\SampleSystem\SistemaOdonto\obj\Debug\SampleSystem.frmConDentist.resources
-C:\Users\zoete\source\repos\samplesentity\SampleSystem\SistemaOdonto\obj\Debug\SampleSystem.frmEditarDentist.resources
 C:\Users\zoete\source\repos\samplesentity\SampleSystem\SistemaOdonto\obj\Debug\SampleSystem.frmMain.resources
 C:\Users\zoete\source\repos\samplesentity\SampleSystem\SistemaOdonto\obj\Debug\SampleSystem.Properties.Resources.resources
 C:\Users\zoete\source\repos\samplesentity\SampleSystem\SistemaOdonto\obj\Debug\SampleSystem.csproj.GenerateResource.cache
@@ -27,3 +26,4 @@ C:\Users\zoete\source\repos\samplesentity\SampleSystem\SistemaOdonto\obj\Debug\S
 C:\Users\zoete\source\repos\samplesentity\SampleSystem\SistemaOdonto\obj\Debug\SampleSystem.csproj.CopyComplete
 C:\Users\zoete\source\repos\samplesentity\SampleSystem\SistemaOdonto\obj\Debug\SampleSystem.exe
 C:\Users\zoete\source\repos\samplesentity\SampleSystem\SistemaOdonto\obj\Debug\SampleSystem.pdb
+C:\Users\zoete\source\repos\samplesentity\SampleSystem\SistemaOdonto\obj\Debug\SampleSystem.frmEditDentist.resources

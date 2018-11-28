@@ -116,7 +116,7 @@ namespace SampleSystem
                     var id = dg.Rows[e.RowIndex].Cells[0].Value;
                     Dentist obj = service.Buscar(Convert.ToInt32(id));
 
-                    var form = new frmEditarDentist(obj);
+                    var form = new frmEditDentist(obj);
                     form.ShowDialog();
                     
                     if(form.status == "apagado")

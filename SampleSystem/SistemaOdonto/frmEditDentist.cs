@@ -12,13 +12,13 @@ using WcfService;
 
 namespace SampleSystem
 {
-    public partial class frmEditarDentist : Form
+    public partial class frmEditDentist : Form
     {
         public string status;
         Dentist obj = new Dentist();
         DentistService service = new DentistService();
 
-        public frmEditarDentist(Dentist obj)
+        public frmEditDentist(Dentist obj)
         {
             InitializeComponent();
             IniciarFormulario(obj);
