@@ -48,17 +48,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Context\SystemContext.cs" />
-    <Compile Include="Map\AttendanceMap.cs" />
-    <Compile Include="Map\DentistMap.cs" />
-    <Compile Include="Map\PacientMap.cs" />
+    <Compile Include="Context\SistemaContext.cs" />
+    <Compile Include="Map\ConsultaMap.cs" />
+    <Compile Include="Map\DentistaMap.cs" />
+    <Compile Include="Map\PacienteMap.cs" />
     <Compile Include="Migrations\201810291912135_banco.cs" />
     <Compile Include="Migrations\201810291912135_banco.Designer.cs">
       <DependentUpon>201810291912135_banco.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repositories\DentistaRep.cs" />
+    <Compile Include="Repositorios\DentistaRep.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
@@ -66,9 +66,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Entidades\Entities.csproj">
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
       <Project>{f0c358db-79c7-4ef7-ab79-2f541d57cda2}</Project>
-      <Name>Entities</Name>
+      <Name>Entidades</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

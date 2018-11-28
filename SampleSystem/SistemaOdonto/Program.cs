@@ -4,23 +4,19 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SampleSystem
+namespace SistemaOdonto
 {
     static class Program
     {
         /// <summary>
-        /// System Samples.
+        /// Ponto de entrada principal para o aplicativo.
         /// </summary>
         [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-
-            frmSplashScreen frm = new frmSplashScreen();
-            frm.ShowDialog();
-
-            Application.Run(new frmMain());
+            Application.Run(new frmPrincipal());
         }
     }
 }

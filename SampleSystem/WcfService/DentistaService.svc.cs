@@ -1,5 +1,5 @@
 ﻿using Controllers.Repositorios;
-using Entities;
+using Entidades;
 using Interfaces;
 using System;
 using System.Collections.Generic;
@@ -11,22 +11,24 @@ using System.Text;
 
 namespace WcfService
 {
-        public class DentistService : IDentist
+    // OBSERVAÇÃO: Você pode usar o comando "Renomear" no menu "Refatorar" para alterar o nome da classe "Service1" no arquivo de código, svc e configuração ao mesmo tempo.
+    // OBSERVAÇÃO: Para iniciar o cliente de teste do WCF para testar esse serviço, selecione Service1.svc ou Service1.svc.cs no Gerenciador de Soluções e inicie a depuração.
+    public class DentistaService : IDentista
     {
-        private DentistRep rep = new DentistRep();
+        private DentistaRep rep = new DentistaRep();
         
-        public void Cadastrar(Dentist obj)
+        public void Cadastrar(Dentista obj)
         {
             rep.Cadastrar(obj);
         }
 
-        public Dentist Buscar(int id)
+        public Dentista Buscar(int id)
         {
             return rep.Buscar(id);
         }
 
 
-        public List<Dentist> Listar()
+        public List<Dentista> Listar()
         {
             return rep.Listar();
         }
@@ -36,7 +38,7 @@ namespace WcfService
             rep.Deletar(id);
         }
 
-        public void Editar(Dentist objNovo)
+        public void Editar(Dentista objNovo)
         {
             rep.Editar(objNovo);
         }

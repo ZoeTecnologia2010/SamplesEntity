@@ -86,9 +86,9 @@
       <Project>{b697dc2c-3021-4647-b81c-3c5623844eb9}</Project>
       <Name>Controllers</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Entidades\Entities.csproj">
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
       <Project>{f0c358db-79c7-4ef7-ab79-2f541d57cda2}</Project>
-      <Name>Entities</Name>
+      <Name>Entidades</Name>
     </ProjectReference>
     <ProjectReference Include="..\Interfaces\Interfaces.csproj">
       <Project>{1532e7eb-9bb8-435a-910f-7ee27dcb37ff}</Project>
