@@ -8,58 +8,58 @@ namespace Controllers.Migrations
         public override void Up()
         {
             CreateTable(
-                "dbo.Consulta",
+                "dbo.Attendance",
                 c => new
                     {
-                        ID_CONSULTA = c.Int(nullable: false, identity: true),
-                        ID_DENTISTA = c.Int(nullable: false),
-                        ID_PACIENTE = c.Int(nullable: false),
-                        DATA_CONSULTA = c.DateTime(),
-                        HORAMARCADA_CONSULTA = c.DateTime(),
-                        HORAINICIO_CONSULTA = c.DateTime(),
-                        HORAFIM_CONSULTA = c.DateTime(),
-                        OBSERVACOES_CONSULTA = c.String(),
-                        STATUS_CONSULTA = c.String(),
+                        ID_Attendance = c.Int(nullable: false, identity: true),
+                        ID_Dentist = c.Int(nullable: false),
+                        ID_Patient = c.Int(nullable: false),
+                        DateTime_Attendance = c.DateTime(),
+                        TimeSelect_Attendance = c.DateTime(),
+                        TimeStart_Attendance = c.DateTime(),
+                        TimeFinish_Attendance = c.DateTime(),
+                        Obs_Attendance = c.String(),
+                        Status_Attendance = c.String(),
                     })
-                .PrimaryKey(t => t.ID_CONSULTA);
+                .PrimaryKey(t => t.ID_Attendance);
             
             CreateTable(
-                "dbo.Dentista",
+                "dbo.Dentist",
                 c => new
                     {
-                        ID_DENTISTA = c.Int(nullable: false, identity: true),
-                        NOME_DENTISTA = c.String(),
-                        EMAIL_DENTISTA = c.String(),
-                        TELEFONE_DENTISTA = c.Long(nullable: false),
-                        CELULAR_DENTISTA = c.Long(nullable: false),
-                        CRO = c.String(),
+                        ID_Dentist = c.Int(nullable: false, identity: true),
+                        Name_Dentist = c.String(),
+                        Email_Dentist = c.String(),
+                        Phone_Dentist = c.Long(nullable: false),
+                        Cellphone_Dentist = c.Long(nullable: false),
+                        Number = c.String(),
                     })
-                .PrimaryKey(t => t.ID_DENTISTA);
+                .PrimaryKey(t => t.ID_Dentist);
             
             CreateTable(
-                "dbo.Paciente",
+                "dbo.Patient",
                 c => new
                     {
-                        ID_PACIENTE = c.Int(nullable: false, identity: true),
-                        NOME_PACIENTE = c.String(),
-                        EMAIL_PACIENTE = c.String(),
-                        TELEFONE_PACIENTE = c.Long(nullable: false),
-                        CELULAR_PACIENTE = c.Long(nullable: false),
-                        CEP_PACIENTE = c.String(),
-                        ENDERECO_PACIENTE = c.String(),
-                        COMPLEMENTO_PACIENTE = c.String(),
-                        NASCIMENTO_PACIENTE = c.DateTime(nullable: false),
-                        SEXO_PACIENTE = c.String(),
+                        ID_Patient = c.Int(nullable: false, identity: true),
+                        Name_Patient = c.String(),
+                        Email_Patient = c.String(),
+                        Phone_Patient = c.Long(nullable: false),
+                        Cellphone_Patient = c.Long(nullable: false),
+                        Zip_Patient = c.String(),
+                        Address_Patient = c.String(),
+                        Complement_Patient = c.String(),
+                        Born_Patient = c.DateTime(nullable: false),
+                        Sex_Patient = c.String(),
                     })
-                .PrimaryKey(t => t.ID_PACIENTE);
+                .PrimaryKey(t => t.ID_Patient);
             
         }
         
         public override void Down()
         {
-            DropTable("dbo.Paciente");
-            DropTable("dbo.Dentista");
-            DropTable("dbo.Consulta");
+            DropTable("dbo.Patient");
+            DropTable("dbo.Dentist");
+            DropTable("dbo.Attendance");
         }
     }
 }

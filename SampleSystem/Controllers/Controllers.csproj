@@ -48,17 +48,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Context\SistemaContext.cs" />
-    <Compile Include="Map\ConsultaMap.cs" />
-    <Compile Include="Map\DentistaMap.cs" />
-    <Compile Include="Map\PacienteMap.cs" />
+    <Compile Include="Context\SystemContext.cs" />
+    <Compile Include="Map\AttendanceMap.cs" />
+    <Compile Include="Map\DentistMap.cs" />
+    <Compile Include="Map\PatientMap.cs" />
     <Compile Include="Migrations\201810291912135_banco.cs" />
     <Compile Include="Migrations\201810291912135_banco.Designer.cs">
       <DependentUpon>201810291912135_banco.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repositorios\DentistaRep.cs" />
+    <Compile Include="Repositories\DentistRep.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

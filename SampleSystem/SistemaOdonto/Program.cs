@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SistemaOdonto
+namespace SampleSystem
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace SistemaOdonto
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmPrincipal());
+            Application.Run(new frmMain());
         }
     }
 }
