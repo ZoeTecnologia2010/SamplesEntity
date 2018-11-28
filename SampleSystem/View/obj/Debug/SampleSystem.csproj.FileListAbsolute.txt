@@ -56,3 +56,7 @@ C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\View\bin\Debug\Controller
 C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\View\obj\Debug\SampleSystem.csproj.CopyComplete
 C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\View\obj\Debug\SampleSystem.exe
 C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\View\obj\Debug\SampleSystem.pdb
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\View\obj\Debug\SampleSystem.frmSplashScreen.resources
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\View\bin\Debug\MetroFramework.Design.dll
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\View\bin\Debug\MetroFramework.dll
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\View\bin\Debug\MetroFramework.Fonts.dll

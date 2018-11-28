@@ -12,7 +12,7 @@ using WcfService;
 
 namespace SampleSystem
 {
-    public partial class frmEditDentist : Form
+    public partial class frmEditDentist : MetroFramework.Forms.MetroForm
     {
         public string status;
         Dentist obj = new Dentist();

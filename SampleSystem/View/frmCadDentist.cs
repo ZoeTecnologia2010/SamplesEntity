@@ -12,7 +12,7 @@ using WcfService;
 
 namespace SampleSystem
 {
-    public partial class frmCadDentist : Form
+    public partial class frmCadDentist : MetroFramework.Forms.MetroForm
     {
 
         DentistService service = new DentistService();

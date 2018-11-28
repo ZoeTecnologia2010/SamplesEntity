@@ -73,20 +73,20 @@
             // menuDentist
             // 
             this.menuDentist.Name = "menuDentist";
-            this.menuDentist.Size = new System.Drawing.Size(180, 22);
+            this.menuDentist.Size = new System.Drawing.Size(135, 22);
             this.menuDentist.Text = "Dentist";
             this.menuDentist.Click += new System.EventHandler(this.menuDentist_Click);
             // 
             // menuPatient
             // 
             this.menuPatient.Name = "menuPatient";
-            this.menuPatient.Size = new System.Drawing.Size(180, 22);
+            this.menuPatient.Size = new System.Drawing.Size(135, 22);
             this.menuPatient.Text = "Patient";
             // 
             // menuAttendance
             // 
             this.menuAttendance.Name = "menuAttendance";
-            this.menuAttendance.Size = new System.Drawing.Size(180, 22);
+            this.menuAttendance.Size = new System.Drawing.Size(135, 22);
             this.menuAttendance.Text = "Attendance";
             // 
             // agendasToolStripMenuItem
@@ -103,20 +103,20 @@
             // menuAgDentists
             // 
             this.menuAgDentists.Name = "menuAgDentists";
-            this.menuAgDentists.Size = new System.Drawing.Size(180, 22);
+            this.menuAgDentists.Size = new System.Drawing.Size(140, 22);
             this.menuAgDentists.Text = "Dentists";
             this.menuAgDentists.Click += new System.EventHandler(this.menuAgDentists_Click);
             // 
             // menuAgPatients
             // 
             this.menuAgPatients.Name = "menuAgPatients";
-            this.menuAgPatients.Size = new System.Drawing.Size(180, 22);
+            this.menuAgPatients.Size = new System.Drawing.Size(140, 22);
             this.menuAgPatients.Text = "Patients";
             // 
             // menuAgAttendances
             // 
             this.menuAgAttendances.Name = "menuAgAttendances";
-            this.menuAgAttendances.Size = new System.Drawing.Size(180, 22);
+            this.menuAgAttendances.Size = new System.Drawing.Size(140, 22);
             this.menuAgAttendances.Text = "Attendances";
             // 
             // MAjuda
@@ -131,7 +131,7 @@
             // menuSuporte
             // 
             this.menuSuporte.Name = "menuSuporte";
-            this.menuSuporte.Size = new System.Drawing.Size(180, 22);
+            this.menuSuporte.Size = new System.Drawing.Size(116, 22);
             this.menuSuporte.Text = "Support";
             // 
             // MSair
@@ -148,6 +148,7 @@
             this.menuSair.Name = "menuSair";
             this.menuSair.Size = new System.Drawing.Size(180, 22);
             this.menuSair.Text = "Quit";
+            this.menuSair.Click += new System.EventHandler(this.menuSair_Click);
             // 
             // frmMain
             // 

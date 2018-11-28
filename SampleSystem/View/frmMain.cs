@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace SampleSystem
 {
-    public partial class frmMain : Form
+    public partial class frmMain : MetroFramework.Forms.MetroForm
     {
         public frmMain()
         {
@@ -27,6 +27,11 @@ namespace SampleSystem
         {
             frmConDentist frm = new frmConDentist();
             frm.ShowDialog();
+        }
+
+        private void menuSair_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

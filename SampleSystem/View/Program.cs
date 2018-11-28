@@ -16,6 +16,10 @@ namespace SampleSystem
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+
+            frmSplashScreen frm = new frmSplashScreen();
+            frm.ShowDialog();
+
             Application.Run(new frmMain());
         }
     }
