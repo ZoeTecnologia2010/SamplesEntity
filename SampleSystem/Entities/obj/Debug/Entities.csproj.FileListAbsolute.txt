@@ -1,0 +1,11 @@
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Entidades\bin\Debug\Entidades.dll
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Entidades\bin\Debug\Entidades.pdb
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Entidades\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Entidades\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Entidades\obj\Debug\Entidades.dll
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Entidades\obj\Debug\Entidades.pdb
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Entities\bin\Debug\Entidades.dll
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Entities\bin\Debug\Entidades.pdb
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Entities\obj\Debug\Entidades.dll
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Entities\obj\Debug\Entidades.pdb

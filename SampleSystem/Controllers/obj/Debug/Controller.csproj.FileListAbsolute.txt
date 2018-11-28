@@ -1,0 +1,16 @@
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Controllers\bin\Debug\Controllers.dll.config
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Controllers\bin\Debug\Controllers.dll
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Controllers\bin\Debug\Controllers.pdb
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Controllers\bin\Debug\Entidades.dll
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Controllers\bin\Debug\EntityFramework.dll
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Controllers\bin\Debug\Entidades.pdb
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Controllers\bin\Debug\EntityFramework.xml
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Controllers\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Controllers\obj\Debug\Controllers.Migrations.banco.resources
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Controllers\obj\Debug\Controller.csproj.GenerateResource.cache
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Controllers\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Controllers\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Controllers\obj\Debug\Controllers.dll
+C:\Users\zoete\source\repos\SamplesEntity\SampleSystem\Controllers\obj\Debug\Controllers.pdb
